@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://stng.site/sitemap.xml
-Sitemap: https://www.stng.site/sitemap.xm
+Sitemap: https://www.stng.site/sitemap.xml
